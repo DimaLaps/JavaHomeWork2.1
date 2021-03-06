@@ -2,14 +2,14 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int customer_balance = 2_000_000_000;
+        int customer_balance = ;
 
-        int transfer = 500_000_000;
+        int transfer = ;
 
         int total = customer_balance + transfer;
 
         System.out.println(total);
 
     }
-    
+
 }
